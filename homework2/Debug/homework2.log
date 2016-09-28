@@ -1,7 +1,7 @@
 ﻿  homework2.cpp
-e:\c++\homework2\homework2\homework2.cpp(266): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+f:\homework2\homework2\homework2.cpp(266): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
   c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: 'inet_addr' 선언을 참조하십시오.
-e:\c++\homework2\homework2\homework2.cpp(288): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+f:\homework2\homework2\homework2.cpp(288): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
   c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: 'inet_addr' 선언을 참조하십시오.
-  homework2.vcxproj -> E:\c++\homework2\Debug\homework2.exe
-  homework2.vcxproj -> E:\c++\homework2\Debug\homework2.pdb (Full PDB)
+  homework2.vcxproj -> F:\homework2\Debug\homework2.exe
+  homework2.vcxproj -> F:\homework2\Debug\homework2.pdb (Full PDB)
